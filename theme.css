@@ -156,7 +156,7 @@ h1 span::after{
 
 .img1:hover{
 	height:300px;
-	background-image:url(夜に溺れている.png);
+	background-image:url(yoru.png);
 	background-size:cover;
 	transition:4s;
 	filter:none;
@@ -164,7 +164,7 @@ h1 span::after{
 
 .img2:hover{
 	height:300px;
-	background-image:url(しとしと.jpg);
+	background-image:url(shito.jpg);
 	background-size:cover;
 	transition:4s;
 	filter:none;
@@ -172,7 +172,7 @@ h1 span::after{
 
 .img3:hover{
 	height:300px;
-	background-image:url(檻か、盾か.jpg);
+	background-image:url(kabe.jpg);
 	background-size:cover;
 	transition:4s;
 	filter:none;
